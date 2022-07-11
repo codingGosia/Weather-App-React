@@ -15,11 +15,11 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            gosiaCoding
+            codingGosia
           </a>{" "}
           and is {""}
           <a
-            href="https://github.com/gosiaCoding"
+            href="https://github.com/codingGosia"
             target="_blank"
             rel="noopener noreferrer"
           >
