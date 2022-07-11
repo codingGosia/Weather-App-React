@@ -1,10 +1,10 @@
 .Weather {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
   background: #f6f6f6;
   padding: 40px;
   border-radius: 16px;
   box-shadow: 0px 30px 40px rgba (70, 80, 100, 0.07);
-  color: #295e6a;
+  color: #4290a1;
 }
 
 .Weather h1 {
@@ -55,7 +55,7 @@
 }
 
 .Weather li strong {
-  color: #295e6a;
+  color: #234952;
   font-weight: 300;
 }
 
@@ -66,7 +66,7 @@
   font-weight: 400;
   margin-left: 20px;
   margin-left: 5px;
-  color: #393737;
+  color: #253528;
 }
 
 .Weather canvas {
@@ -79,5 +79,5 @@
   line-height: 1;
   position: relative;
   top: -34px;
-  color: #393737;
+  color: #273327;
 }

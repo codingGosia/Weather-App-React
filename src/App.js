@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Stockholm" />
         <footer>
-          This project is coded by Gosia and is open-sourced on{" "}
+          Gosia {" "}
           <a
             href="https://github.com/codingGosia"
             target="_blank"
