@@ -1,5 +1,5 @@
 body {
-  background: #c196da;
+  background: #32aeb3;
 }
 
 .App {
@@ -8,13 +8,13 @@ body {
 }
 
 .App footer {
-  font-size: 12px;
+  font-size: 13px;
   margin: 10px 0;
   padding-top: 5px;
 }
 
 .App footer a{
-  color: #295e6a;
+  color: #f3ce2b;
 }
 
 
