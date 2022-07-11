@@ -6,34 +6,16 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="Stockholm" />
+        <Weather defaultCity="London" />
         <footer>
-          {" "}
-          This project was coded by{" "}
-          <a
-            href=""
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            codingGosia
-          </a>{" "}
-          and is {""}
+          This project is coded by Gosia and is open-sourced on{" "}
           <a
             href="https://github.com/codingGosia"
             target="_blank"
             rel="noopener noreferrer"
           >
-            open-sourced
+            GitHub
           </a>
-          {""} on Github and hosted on{" "}
-          <a
-            href=""
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Netlify
-          </a>
-          .
         </footer>
       </div>
     </div>
