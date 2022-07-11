@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="London" />
+        <Weather defaultCity="Stockholm" />
         <footer>
           This project is coded by Gosia and is open-sourced on{" "}
           <a
