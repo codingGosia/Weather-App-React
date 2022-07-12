@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           Gosia {" "}
           <a
-            href="https://github.com/codingGosia"
+            href="https://github.com/codingGosia/Weather-App-React"
             target="_blank"
             rel="noopener noreferrer"
           >
