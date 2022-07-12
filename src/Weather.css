@@ -1,6 +1,6 @@
 .Weather {
   font-family: "Roboto", Arial, Helvetica, sans-serif;
-  background: #7cd6da;
+  background: rgb(163, 231, 235);
   padding: 40px;
   border-radius: 16px;
   box-shadow: 0px 30px 40px rgba (70, 80, 100, 0.07);
